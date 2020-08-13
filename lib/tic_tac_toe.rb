@@ -128,6 +128,3 @@ class TicTacToe
   end
 
 end
-
-
-
