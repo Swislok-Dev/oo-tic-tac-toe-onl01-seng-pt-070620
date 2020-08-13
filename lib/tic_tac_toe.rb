@@ -109,8 +109,10 @@ class TicTacToe
     won?
     if @winner == "X"
       "X"
-    else
+    elsif @winner == "O"
       "O"
+    else
+      nil
     end
   end
 
