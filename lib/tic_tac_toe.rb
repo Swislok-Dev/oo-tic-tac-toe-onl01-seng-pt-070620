@@ -131,4 +131,3 @@ end
 
 
 
-game = TicTacToe.new
