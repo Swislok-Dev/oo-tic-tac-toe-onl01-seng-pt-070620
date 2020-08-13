@@ -128,3 +128,7 @@ class TicTacToe
   end
 
 end
+
+bin/tictactoe
+
+game = TicTacToe.new
