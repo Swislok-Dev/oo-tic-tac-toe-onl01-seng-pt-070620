@@ -103,7 +103,11 @@ class TicTacToe
   end
 
   def winner
-    won?
+    if won?[combo] == "X"
+      "X"
+    else
+      "O"
+    end
   end
 
 end
