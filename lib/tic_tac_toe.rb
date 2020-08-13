@@ -129,6 +129,7 @@ class TicTacToe
 
 end
 
+bin/tictactoe
 
 game = TicTacToe.new
 game.play
