@@ -106,7 +106,7 @@ class TicTacToe
   end
 
   def winner
-    if @board.won? == "X"
+    if @winner == "X"
       "X"
     else
       "O"
