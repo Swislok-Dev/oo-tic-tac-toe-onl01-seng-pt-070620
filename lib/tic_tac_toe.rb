@@ -132,4 +132,3 @@ end
 bin/tictactoe
 
 game = TicTacToe.new
-
