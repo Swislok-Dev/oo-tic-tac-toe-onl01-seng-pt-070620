@@ -121,7 +121,7 @@ class TicTacToe
     if won?
       puts "Congratulations #{winner}!"
     elsif draw?
-      puts "Nah!"
+      puts "Cats' Game!"
     else
       nil
     end
